@@ -9,6 +9,8 @@
 5) Justin Hozman @justinhozman
 ## Dataset Description
 ## Two Questions
+1) In the borough with the most crashes, what time of day are crashes the most frequent?
+2) Of the relevant vehicle types which one results in the most casualties?
 ## Manipulations Applied to Data
 ## Analysis and Results
 ## Tableau Packaged Workbook
