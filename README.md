@@ -17,7 +17,7 @@ Link to Dataset https://catalog.data.gov/dataset/nchs-leading-causes-of-death-un
 2) Compared to the death rate of the United States, which states deviate from the US trend and is there a common factor leading to the outlier? Is there a certain state that has different trends compared to all other states?
 
 ## Why are these questions important?
-
+k
 ## Manipulations Applied to Data
 
 ## Analysis and Results
