@@ -2,9 +2,9 @@
 ## Team Name
 29704 Group 7
 ## Team Members: [Personal Repositories for Project]
-1) Alex Kang: @ALEXKANG1
+1) Alex Kang: 
 2) Andy Kim: 
-3) Braden Johnson: README.md
+3) Braden Johnson: Owner of Repository
 4) Jake Page: 
 5) Justin Hozman: 
 ## Dataset Description
