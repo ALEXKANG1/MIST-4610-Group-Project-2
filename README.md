@@ -17,7 +17,8 @@ Link to Dataset https://catalog.data.gov/dataset/nchs-leading-causes-of-death-un
 2) Compared to the death rate of the United States, which states deviate from the US trend and is there a common factor leading to the outlier? Is there a certain state that has different trends compared to all other states?
 
 ## Why are these questions important?
-k
+1) We found this to be an important question because it could be useful in finding if there are specific drivers in the death rate that can be controlled in each state. This would allow for it to be easier for healthcare professionals and everyday people to work towards preventing these causes by knowing what to look for based on the state they reside in. With this information we hope to be able to assist in lowering the overall death rates in America by aiming medical resources towards common causes of death in their state and away from causes that may not be so prevalent.
+2) 
 ## Manipulations Applied to Data
 
 ## Analysis and Results
