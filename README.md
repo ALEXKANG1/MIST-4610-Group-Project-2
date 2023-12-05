@@ -2,7 +2,7 @@
 ## Team Name
 29704 Group 7
 ## Team Members: [Personal Repositories for Project]
-1) Alex Kang: 
+1) Alex Kang: @ALEXKANG1
 2) Andy Kim: 
 3) Braden Johnson: 
 4) Jake Page: 
