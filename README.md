@@ -4,7 +4,7 @@
 ## Team Members: [Personal Repositories for Project]
 1) Alex Kang: @ALEXKANG1
 2) Andy Kim: 
-3) Braden Johnson: 
+3) Braden Johnson: README.md
 4) Jake Page: 
 5) Justin Hozman: 
 ## Dataset Description
