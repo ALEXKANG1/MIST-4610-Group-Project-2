@@ -10,8 +10,8 @@
 ## Dataset Description
 
 ## Two Questions
-1) 
-2) 
+1) Which states have abnormally high death rates and based off those findings is there a common cause of death that drives it? With this, what is the cause of death in regions where there are lower death rates?
+2) Compared to the death rate of the United States, which states deviate from the US trend and is there a common factor leading to the outlier?
 ## Manipulations Applied to Data
 
 ## Analysis and Results
