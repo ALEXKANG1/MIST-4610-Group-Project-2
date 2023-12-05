@@ -18,7 +18,7 @@ Link to Dataset https://catalog.data.gov/dataset/nchs-leading-causes-of-death-un
 
 ## Why are these questions important?
 1) We found this to be an important question because it could be useful in finding if there are specific drivers in the death rate that can be controlled in each state. This would allow for it to be easier for healthcare professionals and everyday people to work towards preventing these causes by knowing what to look for based on the state they reside in. With this information we hope to be able to assist in lowering the overall death rates in America by aiming medical resources towards common causes of death in their state and away from causes that may not be so prevalent.
-2) 
+2) Understanding which states deviate fron national health rate trends allows for targeted intervention. Identifying these states makes the prevention process capable and efficient. Along with prevention, mitigation is another important factor we found to be significant. By recognizing which states deviate from the mean, we are able to better allocate resources and even potentially stimulate policy change. States that tend to deviate from the mean can implement a more proactive emergency preparedeness provision to prevent and mitigate concerning and abnormal death rates.
 ## Manipulations Applied to Data
 
 ## Analysis and Results
